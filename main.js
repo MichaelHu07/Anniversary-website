@@ -148,7 +148,7 @@ const memories = [
     copy: "\"How did he pull you\" -Katherine Hu",
     detail: "",
     align: "right",
-    photo: "./assets/gallery/IMG_9136.jpg",
+    photo: "./assets/gallery/IMG_9136.JPG",
     washTop: "rgba(231, 242, 255, 0.95)",
     washBottom: "rgba(255, 245, 236, 0.84)",
     lineTilt: "0.6deg",
